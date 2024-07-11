@@ -4,7 +4,7 @@
 
 ## Demo
 
-[DEMO LINK]([https://antypenko-bohdan.github.io/js_2045_game/](https://antypenko-bohdan.github.io/2048_game/))
+[DEMO LINK]([https://antypenko-bohdan.github.io/2048_game/])
 
 ## Technologies used
 
